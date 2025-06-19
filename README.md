@@ -1,4 +1,4 @@
 # New Project
 
-this project was created from local system..
-created by Parianshi
+This project was created from local system..
+created by Parianshi.
